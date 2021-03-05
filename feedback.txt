@@ -1,0 +1,8 @@
+Hi Varunya,
+
+Your grade for HW1 is 12.5%.
+
+1. -0.5% for not documenting your results for different service provisioning models.
+2. +3% for building your simulations using functional Scala.
+
+Abhijeet
